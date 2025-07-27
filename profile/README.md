@@ -14,7 +14,7 @@ _Internal experiments and original tools._
 | Project | Description | Status |
 |--------|-------------|--------|
 | [**Smart Cooking Clock**](/cooking/) | A recipe manager and planner for culinary enthusiasts. | ✅ Active |
-| [**Art Notes**](image-comment/) | Comment system that lets users interact directly with parts of images. | ✅ Active |
+| [**Art Notes**](https://artnotes.io) | Comment system that lets users interact directly with parts of images. | ✅ Active |
 | [**Vira Casaca**](https://viracasaca.com.br) | Use AI to prank your friends and family. | 🎉 Live |
 | [**Calendário do Corinthians**](/app/?file=calendario_do_corinthians.html) | Calendar for Corinthians fans. | ✅ Active |
 | [**Calendar Teams**](https://calendarteams.com/) | Team-based event planner with shared views and alerts. | 🛠 In Progress |
