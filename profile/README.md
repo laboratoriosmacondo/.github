@@ -68,39 +68,6 @@ _Data cleaning, chart generation, and automation._
 
 ---
 
-## 🤖 Automations  
-_Same tools, used for automation pipelines and custom workflows._  
-
-- [**Data Cleaning Toolkit**](app/?file=google-sheet-data-cleaning-toolkit.html)  
-- [**Chart Generator**](app/?file=google-sheet-charts.html)
-
----
-
-## 🧱 Local Development  
-_Tools and resources for internal development._  
-**Visibility:** 🔒 Local  
-
-- [**apps**](/app/) — Main app directory.  
-- [**image-audio-video**](/audio-video/) — AV asset store.  
-- [**data-science**](/data-science/) — Experiments & models.  
-- [**games**](/games/) — Game prototypes and engines.  
-- [**tools**](/tools/) — Script and utility repo.  
-
----
-
-## 🧪 Testing  
-_Experiments, early builds, and notebooks._  
-**Visibility:** 🔒 Local  
-
-- [**notes**](/notes/) — Development logs.  
-- [**maps-comment**](/maps-comment/) — Map-linked annotations.  
-- [**guitar-classes**](/guitar-classes/) — Educational content.  
-- [**forecast**](/forecast/) — Weather bot experiments.  
-- [**tools**](/tools/) — Shared utility code.  
-- [**code-library**](/code-library/) — Reusable snippet base.
-
----
-
 ## 📄 License
 
 All public projects in this repository are released under the [MIT License](LICENSE).
