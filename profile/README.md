@@ -9,21 +9,28 @@ Welcome to the open software projects developed by **Macondo Labs**, based in **
 ---
 
 ## 🚀 Applications  
-_Internal experiments and original tools._  
+_Products, internal experiments, and original tools._  
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| [**Smart Cooking Clock**](/cooking/) | A recipe manager and planner for culinary enthusiasts. | ✅ Active |
-| [**Art Notes**](https://artnotes.io) | Comment system that lets users interact directly with parts of images. | ✅ Active |
-| [**Vira Casaca**](https://viracasaca.com.br) | Use AI to prank your friends and family. | 🎉 Live |
-| [**Calendário do Corinthians**](/app/?file=calendario_do_corinthians.html) | Calendar for Corinthians fans. | ✅ Active |
-| [**Calendar Teams**](https://calendarteams.com/) | Team-based event planner with shared views and alerts. | 🛠 In Progress |
-| [**Rolê SP**](https://role-sp.com/) | Interactive cultural map of São Paulo. | 🎉 Live |
-| [**Análise de Letras**](https://analisedeletras.com.br/) | Semantic analyzer for Brazilian song lyrics. | ✅ Active |
+| [**Macondo Labs**](https://macondolabs.com) | Central studio hub, product directory, and browser mini-app laboratory. | 🎉 Live |
+| [**Análise de Letras**](https://analisedeletras.com.br) | Brazilian song lyrics interpreted by a community of listeners with AI insights. | 🎉 Live |
+| [**SportsCalendar**](https://sportscalendar.io) | Football fixtures from 700+ clubs, synced directly to your calendar. | 🎉 Live |
+| [**Vira Casaca**](https://viracasaca.com.br) | AI jersey-swap for friendly football pranks and AI-curated soccer news. | 🎉 Live |
+| [**Rolezero**](https://rolezero.com.br) | Curated cultural events and things to do in São Paulo and major Brazilian cities. | 🎉 Live |
+| [**Keep In Touch**](https://usekeepintouch.com) | Personal CRM with gentle nudges to stay close to the people who matter. | 🎉 Live |
+| [**ArtNotes**](https://artnotes.io) | Interactive art history discovery, spatial annotations, and audio docent tours. | 🎉 Live |
+| [**WeJam**](https://wejam.pro) | Mobile-first collaborative music studio, browser DAW, and guitar practice journal. | 🎉 Live |
+| [**Audiomoji**](https://audiomoji.io) | Record voice messages or synthesize speech with real-time emoji sound effects. | 🎉 Live |
+| [**DishTimer**](https://dishtimer.com) | Real-time multi-dish cooking timer, reverse-Gantt meal scheduler, and kitchen voice guide. | 🎉 Live |
+| [**ReservationAlerts**](https://reservationalerts.com) | Restaurant reservation tracker and instant email alerts for Resy, OpenTable, and SevenRooms. | 🛠 Early Access |
+| [**Bolão Copa 2026**](https://macondolabs.com/labs/bolao-copa-2026/) | World Cup 2026 prediction pool with private leagues and live rankings. | ✅ Active |
+| [**Macondo Games**](https://macondolabs.com/games/) | Browser word games including multiplayer **STOP / Adedonha** and daily **7-Letter Wordle**. | ✅ Active |
+| [**Meme Generator**](https://macondolabs.com/meme-generator/) | Browser-based minimalist meme generators rendered client-side. | ✅ Active |
+| [**Vídeos do Timão**](https://videostimao.com.br) | Corinthians fan content & match video archive. | ✅ Active |
 | [**Bisk8 Zine**](https://bisk8.de) | Indie digital skateboarding magazine platform. | 🎉 Live |
-| [**Ocorrências em SP**](#) | Real-time police data viz for São Paulo. | 🔬 Prototype |
-| [**Videos Timao**](https://videostimao.com.br) | Fan content & match archive. | ✅ Active |
-| [**Quick Free Web Tools**](https://quickfreewebtools.com) | Generators, converters, and more. | ✅ Stable |
+| [**Ocorrências em SP**](https://lucasmontanheiro.github.io/ocorrencias-em-sao-paulo/) | Public safety data visualization for the State of São Paulo. | 🔬 Prototype |
+| [**Web Tools**](https://lucasmontanheiro.github.io/tools/) | Generators, converters, and developer utilities. | ✅ Stable |
 
 ---
 
